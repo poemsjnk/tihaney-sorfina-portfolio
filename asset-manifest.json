@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tihaney-sorfina-portfolio/static/css/main.85a0b325.css",
+    "main.js": "/tihaney-sorfina-portfolio/static/js/main.23f93a19.js",
+    "static/js/453.8cffdce6.chunk.js": "/tihaney-sorfina-portfolio/static/js/453.8cffdce6.chunk.js",
+    "static/media/bg-light.png": "/tihaney-sorfina-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/tihaney-sorfina-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/tihaney-sorfina-portfolio/index.html",
+    "main.85a0b325.css.map": "/tihaney-sorfina-portfolio/static/css/main.85a0b325.css.map",
+    "main.23f93a19.js.map": "/tihaney-sorfina-portfolio/static/js/main.23f93a19.js.map",
+    "453.8cffdce6.chunk.js.map": "/tihaney-sorfina-portfolio/static/js/453.8cffdce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a0b325.css",
+    "static/js/main.23f93a19.js"
+  ]
+}
